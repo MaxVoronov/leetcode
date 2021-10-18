@@ -1,7 +1,6 @@
 package add_two_numbers
 
 import (
-	"fmt"
 	"reflect"
 	"testing"
 )
@@ -19,10 +18,6 @@ func TestAddTwoNumbers(t *testing.T) {
 
 	for i, tc := range tests {
 		got := AddTwoNumbers(SliceToLinkedList(tc.l1), SliceToLinkedList(tc.l2))
-		fmt.Printf("List1: %+v\n", tc.l1)
-		fmt.Printf("List2: %+v\n", tc.l2)
-		fmt.Printf("Result: %+v\n", got.ToSlice())
-
 		if !reflect.DeepEqual(tc.want, got.ToSlice()) {
 			t.Fatalf("Case #%d: expected: %v, got: %v", i+1, tc.want, got.ToSlice())
 		}
