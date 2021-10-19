@@ -9,7 +9,7 @@ type ListNode struct {
 func (n *ListNode) ToSlice() []int {
 	result := make([]int, 0)
 	node := n
-	for true {
+	for {
 		result = append(result, node.Val)
 		if node.Next == nil {
 			break
