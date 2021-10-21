@@ -1,6 +1,6 @@
 # LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-11%20%2F%202046-1f425f?logo=leetcode) 
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-12%20%2F%202046-1f425f?logo=leetcode) 
 ![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go) 
 
 ### LeetCode Algorithm
@@ -22,4 +22,5 @@
 
 | #   | Title                                    | Solution | Difficulty |
 |----:|------------------------------------------|----------|:----------:|
+| 192 | [Word Frequency](https://leetcode.com/problems/word-frequency/) | [Bash](bash/0192_word_frequency) | 🟡 |
 | 193 | [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers/) | [Bash](bash/0193_valid_phone_numbers) | 🟢 |
