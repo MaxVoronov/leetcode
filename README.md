@@ -1,6 +1,6 @@
 # LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-16%20%2F%202046-1f425f?logo=leetcode) 
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-17%20%2F%202046-1f425f?logo=leetcode) 
 ![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go) 
 
 ### LeetCode Algorithm
@@ -16,6 +16,7 @@
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Go](go/0020_valid_parentheses) | 🟢 |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Go](go/0035_search_insert_position) | 🟢 |
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Go](go/0050_powx_n) | 🟡 |
+| 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Go](go/0075_sort_colors) | 🟡 |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Go](go/0155_min_stack) | 🟢 |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Go](go/0226_invert_binary_tree) | 🟢 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Go](go/0283_move_zeroes) | 🟢 |
