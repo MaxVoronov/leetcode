@@ -1,6 +1,6 @@
 # LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-17%20%2F%202046-1f425f?logo=leetcode) 
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-18%20%2F%202046-1f425f?logo=leetcode) 
 ![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go) 
 
 ### LeetCode Algorithm
@@ -9,6 +9,7 @@
 |----:|------------------------------------------|----------|:----------:|
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/) | [Go](go/0001_two_sum) | 🟢 |
 | 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Go](go/0002_add_two_numbers) | 🟡 |
+| 3   | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Go](go/0003_longest_substring) | 🟡 |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Go](go/0007_reverse_integer) | 🟡 |
 | 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Go](go/0009_palindrome_number) | 🟢 |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Go](go/0013_roman_to_integer) | 🟢 |
