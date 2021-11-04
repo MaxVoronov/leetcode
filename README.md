@@ -1,6 +1,6 @@
 # LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-18%20%2F%202046-1f425f?logo=leetcode) 
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-19%20%2F%202061-1f425f?logo=leetcode) 
 ![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go) 
 
 ### LeetCode Algorithm
@@ -22,6 +22,7 @@
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Go](go/0226_invert_binary_tree) | 🟢 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Go](go/0283_move_zeroes) | 🟢 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](go/0344_reverse_string) | 🟢 |
+| 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Go](go/0404_sum_of_left_leaves) | 🟢 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Go](go/0704_binary_search) | 🟢 |
 
 ### LeetCode Shell
