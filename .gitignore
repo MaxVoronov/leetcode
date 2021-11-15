@@ -4,3 +4,7 @@
 
 # Mac OS X files
 .DS_Store
+
+# Rust files
+rust/Cargo.lock
+rust/target
