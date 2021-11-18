@@ -1,6 +1,6 @@
 # LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-19%20%2F%202076-1f425f?logo=leetcode) 
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-20%20%2F%202077-1f425f?logo=leetcode) 
 ![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go) 
 ![Language: Rust](https://img.shields.io/badge/language-Rust-00ADD8?logo=rust) 
 
@@ -18,11 +18,12 @@
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Go](go/0020_valid_parentheses) | 🟢 |
 | 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Go](go/0035_search_insert_position) | 🟢 |
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Go](go/0050_powx_n) | 🟡 |
+| 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Go](go/0069_sqrtx), [Rust](rust/_0069_sqrtx) | 🟢 |
 | 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Go](go/0075_sort_colors) | 🟡 |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Go](go/0155_min_stack) | 🟢 |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Go](go/0226_invert_binary_tree) | 🟢 |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Go](go/0283_move_zeroes) | 🟢 |
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](go/0344_reverse_string) | 🟢 |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](go/0344_reverse_string), [Rust](rust/_0344_reverse_string) | 🟢 |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Go](go/0404_sum_of_left_leaves) | 🟢 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Go](go/0704_binary_search), [Rust](rust/_0704_binary_search) | 🟢 |
 
