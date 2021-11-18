@@ -1,0 +1,4 @@
+[package]
+name = "_0344_reverse_string"
+version = "0.1.0"
+edition = "2021"
