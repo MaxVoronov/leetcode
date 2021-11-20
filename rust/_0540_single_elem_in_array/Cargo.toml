@@ -1,0 +1,4 @@
+[package]
+name = "_0540_single_elem_in_array"
+version = "0.1.0"
+edition = "2021"

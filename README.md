@@ -1,6 +1,6 @@
 # LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-20%20%2F%202077-1f425f?logo=leetcode) 
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-21%20%2F%202077-1f425f?logo=leetcode) 
 ![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go) 
 ![Language: Rust](https://img.shields.io/badge/language-Rust-00ADD8?logo=rust) 
 
@@ -25,6 +25,7 @@
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Go](go/0283_move_zeroes) | 🟢 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Go](go/0344_reverse_string), [Rust](rust/_0344_reverse_string) | 🟢 |
 | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Go](go/0404_sum_of_left_leaves) | 🟢 |
+| 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [Rust](rust/_0540_single_elem_in_array) | 🟡 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Go](go/0704_binary_search), [Rust](rust/_0704_binary_search) | 🟢 |
 
 ### LeetCode Shell
