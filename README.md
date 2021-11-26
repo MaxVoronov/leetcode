@@ -16,7 +16,7 @@
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Go](go/0013_roman_to_integer) | 🟢 |
 | 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Go](go/0017_letter_combinations_phone) | 🟡 |
 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Go](go/0020_valid_parentheses) | 🟢 |
-| 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Go](go/0035_search_insert_position) | 🟢 |
+| 35  | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Go](go/0035_search_insert_position), [Rust](rust/_0035_search_insert_position) | 🟢 |
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Go](go/0050_powx_n) | 🟡 |
 | 69  | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Go](go/0069_sqrtx), [Rust](rust/_0069_sqrtx) | 🟢 |
 | 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Go](go/0075_sort_colors) | 🟡 |
