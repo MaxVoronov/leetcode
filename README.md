@@ -1,9 +1,9 @@
 # LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-24%20%2F%202077-1f425f?logo=leetcode) 
-![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go) 
-![Language: Rust](https://img.shields.io/badge/language-Rust-00ADD8?logo=rust) 
-![Language: Bash](https://img.shields.io/badge/language-Bash-00ADD8?logo=gnubash&logoColor=f5f5f5) 
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-25%20%2F%203008-1f425f?logo=leetcode)
+![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go)
+![Language: Rust](https://img.shields.io/badge/language-Rust-00ADD8?logo=rust)
+![Language: Bash](https://img.shields.io/badge/language-Bash-00ADD8?logo=gnubash&logoColor=f5f5f5)
 
 ### LeetCode Algorithm
 
@@ -21,6 +21,7 @@
 |  50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                              | [Go](go/0050_powx_n)                                                            |     🟡     |          Math, Recursion           |
 |  69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                 | [Go](go/0069_sqrtx), [Rust](rust/_0069_sqrtx)                                   |     🟢     |        Math, Binary Search         |
 |  75 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                       | [Go](go/0075_sort_colors)                                                       |     🟡     |      Array, Pointer, Sorting       |
+|  88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                         | [Go](go/0088_merge_sorted_array)                                                |     🟢     |           Array, Pointer           |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                             | [Go](go/0125_valid_palindrome)                                                  |     🟢     |          String, Pointer           |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/)                                                                   | [Go](go/0136_single_number)                                                     |     🟢     |      Array, Bit Manipulation       |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                           | [Go](go/0155_min_stack)                                                         |     🟢     |               Stack                |
