@@ -1,6 +1,6 @@
 # LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-26%20%2F%203008-1f425f?logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-27%20%2F%203008-1f425f?logo=leetcode)
 ![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go)
 ![Language: Rust](https://img.shields.io/badge/language-Rust-00ADD8?logo=rust)
 ![Language: Bash](https://img.shields.io/badge/language-Bash-00ADD8?logo=gnubash&logoColor=f5f5f5)
@@ -17,6 +17,7 @@
 |  13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                                             | [Go](go/0013_roman_to_integer)                                                  |     🟢     |      Hash Table, Math, String      |
 |  17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)                   | [Go](go/0017_letter_combinations_phone)                                         |     🟡     |  Hash Table, String, Backtracking  |
 |  20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                                           | [Go](go/0020_valid_parentheses)                                                 |     🟢     |           String, Stack            |
+|  26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)                       | [Go](go/0026_remove_duplicates_from_array)                                      |     🟢     |           Array, Pointer           |
 |  35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                                                 | [Go](go/0035_search_insert_position), [Rust](rust/_0035_search_insert_position) |     🟢     |        Array, Binary Search        |
 |  50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                                              | [Go](go/0050_powx_n)                                                            |     🟡     |          Math, Recursion           |
 |  69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                 | [Go](go/0069_sqrtx), [Rust](rust/_0069_sqrtx)                                   |     🟢     |        Math, Binary Search         |
