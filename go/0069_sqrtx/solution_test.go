@@ -8,13 +8,13 @@ func Test_mySqrt(t *testing.T) {
 		want  int
 	}{
 		{input: 2147395599, want: 46339},
-		{ input: 16, want: 4 },
-		{ input: 9, want: 3 },
-		{ input: 8, want: 2 },
-		{ input: 7, want: 2 },
-		{ input: 4, want: 2 },
-		{ input: 1, want: 1 },
-		{ input: 0, want: 0 },
+		{input: 16, want: 4},
+		{input: 9, want: 3},
+		{input: 8, want: 2},
+		{input: 7, want: 2},
+		{input: 4, want: 2},
+		{input: 1, want: 1},
+		{input: 0, want: 0},
 	}
 
 	for i, tc := range tests {

@@ -9,11 +9,11 @@ go-format:
 
 ## go-lint: Check source code by linters
 go-lint:
-	@printf "Checking via golangci-lint... " && GO111MODULE=off golangci-lint run ./go/... && echo "Done!"
+	@printf "Checking via golangci-lint... " && cd ./go/ && golangci-lint run ./... && echo "Done!"
 
 ## go-test: Run Golang tests
 go-test:
-	@echo "Running Golang tests... " && GO111MODULE=off go test ./go/... && echo "Done!"
+	@echo "Running Golang tests... " && cd ./go/ && go test ./... && echo "Done!"
 
 ## rust-test: Run Rust tests
 rust-test:
