@@ -18,7 +18,7 @@ func TestTwoSum(t *testing.T) {
 	}
 
 	for i, tc := range tests {
-		got := TwoSum(tc.input, tc.target)
+		got := twoSum(tc.input, tc.target)
 		if !reflect.DeepEqual(tc.want, got) {
 			t.Fatalf("Case #%d: expected: %v, got: %v", i+1, tc.want, got)
 		}
