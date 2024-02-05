@@ -1,6 +1,6 @@
 # LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-32%20%2F%203031-1f425f?logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-33%20%2F%203031-1f425f?logo=leetcode)
 ![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go)
 ![Language: Rust](https://img.shields.io/badge/language-Rust-00ADD8?logo=rust)
 ![Language: Bash](https://img.shields.io/badge/language-Bash-00ADD8?logo=gnubash&logoColor=f5f5f5)
@@ -35,6 +35,7 @@
 |  283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                             | [Go](go/0283_move_zeroes)                                                       |     🟢     |             Array, Pointer             |
 |  344 | [Reverse String](https://leetcode.com/problems/reverse-string/)                                                                       | [Go](go/0344_reverse_string), [Rust](rust/_0344_reverse_string)                 |     🟢     |            String, Pointer             |
 |  380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)                                             | [Go](go/0380_insert_delete_getrandom_o1)                                        |     🟡     |  Array, Hash Table, Math, Randomized   |
+|  387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                               | [Go](go/0387_first_unique_character)                                            |     🟢     |  Hash Table, String, Counting, Queue   |
 |  404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)                                                               | [Go](go/0404_sum_of_left_leaves)                                                |     🟢     |      Tree, BFS, DFS, Binary Tree       |
 |  540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)                                   | [Rust](rust/_0540_single_elem_in_array)                                         |     🟡     |          Array, Binary Search          |
 |  704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                                                         | [Go](go/0704_binary_search), [Rust](rust/_0704_binary_search)                   |     🟢     |          Array, Binary Search          |
