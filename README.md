@@ -1,6 +1,6 @@
 # LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-33%20%2F%203031-1f425f?logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-34%20%2F%203031-1f425f?logo=leetcode)
 ![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go)
 ![Language: Rust](https://img.shields.io/badge/language-Rust-00ADD8?logo=rust)
 ![Language: Bash](https://img.shields.io/badge/language-Bash-00ADD8?logo=gnubash&logoColor=f5f5f5)
@@ -28,6 +28,7 @@
 |  125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                   | [Go](go/0125_valid_palindrome)                                                  |     🟢     |            String, Pointer             |
 |  136 | [Single Number](https://leetcode.com/problems/single-number/)                                                                         | [Go](go/0136_single_number)                                                     |     🟢     |        Array, Bit Manipulation         |
 |  155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                                 | [Go](go/0155_min_stack)                                                         |     🟢     |                 Stack                  |
+|  206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)                                                             | [Go](go/0206_reverse_linked_list)                                               |     🟢     |          Linked List, Pointer          |
 |  217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                               | [Go](go/0217_contains_duplicate)                                                |     🟢     |           Array, Hash Table            |
 |  226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)                                                               | [Go](go/0226_invert_binary_tree)                                                |     🟢     |      Tree, BFS, DFS, Binary Tree       |
 |  242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                                                                         | [Go](go/0242_valid_anagram)                                                     |     🟢     |           Hash Table, String           |
