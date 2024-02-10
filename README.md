@@ -1,6 +1,6 @@
 # LeetCode
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-34%20%2F%203031-1f425f?logo=leetcode)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-35%20%2F%203031-1f425f?logo=leetcode)
 ![Language: Golang](https://img.shields.io/badge/language-Golang-00ADD8?logo=go)
 ![Language: Rust](https://img.shields.io/badge/language-Rust-00ADD8?logo=rust)
 ![Language: Bash](https://img.shields.io/badge/language-Bash-00ADD8?logo=gnubash&logoColor=f5f5f5)
@@ -25,6 +25,7 @@
 |   70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                                     | [Go](go/0070_climbing_stairs)                                                   |     🟢     | Math, Dynamic Programming, Memoization |
 |   75 | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                                                             | [Go](go/0075_sort_colors)                                                       |     🟡     |        Array, Pointer, Sorting         |
 |   88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)                                                               | [Go](go/0088_merge_sorted_array)                                                |     🟢     |             Array, Pointer             |
+|  104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                                           | [Go](go/0104_max_depth_binary_tree)                                             |     🟢     |      Tree, BFS, DFS, Binary Tree       |
 |  125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                                                                   | [Go](go/0125_valid_palindrome)                                                  |     🟢     |            String, Pointer             |
 |  136 | [Single Number](https://leetcode.com/problems/single-number/)                                                                         | [Go](go/0136_single_number)                                                     |     🟢     |        Array, Bit Manipulation         |
 |  155 | [Min Stack](https://leetcode.com/problems/min-stack/)                                                                                 | [Go](go/0155_min_stack)                                                         |     🟢     |                 Stack                  |
